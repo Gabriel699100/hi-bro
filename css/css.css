@@ -1,0 +1,13 @@
+.centro {
+    width: 50rem;
+    display: flex;
+    padding: 22rem;
+}
+.si {
+    margin-top: 12em;
+    margin-left: 5em;
+}   
+.no{
+    margin-top: 12em;
+    margin-right: 5em;
+}
